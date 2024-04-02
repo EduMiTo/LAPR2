@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.ui.gui.ClinicalChemTechUI">
+   <children>
+      <Label fx:id="client2" layoutX="130.0" layoutY="30.0" prefHeight="21.0" prefWidth="340.0" />
+      <Label alignment="CENTER" layoutX="95.0" layoutY="61.0" prefHeight="21.0" prefWidth="411.0" style="-fx-border-color: #2d584f; -fx-border-width: 0 0 2 0;" text="Please choose the client whose tests you want to check:">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <TableView fx:id="tableView" layoutX="87.0" layoutY="100.0" prefHeight="200.0" prefWidth="427.0" style="-fx-border-color: #2D584F;">
+          <placeholder>
+              <Label text="There are no clients with validated tests registered in the system." />
+          </placeholder>
+        <columns>
+          <TableColumn fx:id="nameColumn" prefWidth="130.0" text="Name" />
+          <TableColumn fx:id="tinColumn" prefWidth="139.0" text="Tin" />
+            <TableColumn fx:id="ccnColumn" prefWidth="157.0" text="CCN" />
+        </columns>
+      </TableView>
+      <Button fx:id="history" layoutX="347.0" layoutY="336.0" mnemonicParsing="false" onAction="#historyOnAction" prefHeight="31.0" prefWidth="205.0" style="-fx-effect: dropShadow(three-pass-box,rgba(0,0,0,0.1), 10.0 , 0.0 , 0.0 , 10.0); -fx-background-color: white; -fx-background-radius: 30;" text="Consult history of tests" textFill="#2d584f">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor></Button>
+      <Button fx:id="sortTIN" layoutX="14.0" layoutY="317.0" mnemonicParsing="false" onAction="#sortByTinOnAction" prefHeight="25.0" prefWidth="95.0" style="-fx-background-radius: 30; -fx-background-color: white; -fx-effect: dropShadow(three-pass-box,rgba(0,0,0,0.1), 10.0 , 0.0 , 0.0 , 10.0);" text="Sort by TIN" textFill="#2d584f">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor></Button>
+      <Button fx:id="sortNAME" layoutX="14.0" layoutY="355.0" mnemonicParsing="false" onAction="#sortByNameOnAction" prefHeight="25.0" prefWidth="95.0" style="-fx-background-radius: 30; -fx-background-color: white; -fx-effect: dropShadow(three-pass-box,rgba(0,0,0,0.1), 10.0 , 0.0 , 0.0 , 10.0);" text="Sort by Name" textFill="#2d584f">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor></Button>
+      <Button layoutX="552.0" layoutY="18.0" mnemonicParsing="false" onAction="#exit" prefHeight="25.0" prefWidth="30.0" style="-fx-background-radius: 100; -fx-background-color: #2d584f; -fx-effect: dropShadow(three-pass-box,rgba(0,0,0,0.1), 10.0 , 0.0 , 0.0 , 10.0);" stylesheets="@styles/styles.css" text="X" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Button>
+   </children>
+</AnchorPane>

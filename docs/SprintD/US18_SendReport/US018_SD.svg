@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="5236px" preserveAspectRatio="none" style="width:3350px;height:5236px;" version="1.1" viewBox="0 0 3350 5236" width="3350px" zoomAndPan="magnify"><defs><filter height="300%" id="fvh317s3mhmk2" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="5033.1719" style="stroke:#A80036;stroke-width:1.0;" width="10" x="59.5" y="99.6094"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="121.9609"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="46.7031" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="182.6641"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="259.7188"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="320.4219"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="229.5938" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="381.125"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="72.0547" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="641.0703"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="743.4766"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="37.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="804.1797"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="871.8828"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="3945.0859" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="932.5859"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="224.7578" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="4908.0234"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="161.8906" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1071.5" y="411.4766"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="543.1641" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1071.5" y="988.2891"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="543.1641" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1071.5" y="1577.6406"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="603.5156" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1071.5" y="2166.9922"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="543.1641" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1071.5" y="2816.6953"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="663.8672" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1071.5" y="3406.0469"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="724.2188" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1071.5" y="4116.1016"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="164.0547" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1071.5" y="4938.375"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1271.5" y="467.1797"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1451" y="543.3672"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="1018.6406"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="1199.6953"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="1607.9922"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="1789.0469"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="2197.3438"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="2378.3984"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="2847.0469"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="3028.1016"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="3436.3984"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="3677.8047"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="4146.4531"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="4387.8594"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="1078.9922"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="1139.3438"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="1320.3984"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="1380.75"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="1441.1016"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="1668.3438"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="1728.6953"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="1909.75"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="1970.1016"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="2030.4531"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="2257.6953"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="2318.0469"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="2499.1016"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="2559.4531"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="2619.8047"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="2680.1563"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="2907.3984"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="2967.75"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3148.8047"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3209.1563"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3269.5078"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3496.75"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3557.1016"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3617.4531"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3798.5078"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3858.8594"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3919.2109"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3979.5625"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="4206.8047"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="4267.1563"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="4327.5078"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="4508.5625"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="4568.9141"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="4629.2656"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="4689.6172"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="4749.9688"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="1260.0469"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="1501.4531"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="1849.3984"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="2090.8047"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="2438.75"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="2740.5078"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="3088.4531"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="3329.8594"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="3738.1563"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="4039.9141"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="4448.2109"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="4810.3203"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="133.7031" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="4968.7266"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="28" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2043.5" y="5007.0781"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2242.5" y="5072.4297"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="154.8906" style="stroke:#000000;stroke-width:2.0;" width="561" x="986.5" y="426.4766"/><rect fill="#FFFFFF" height="76.1875" style="stroke:none;stroke-width:1.0;" width="561" x="986.5" y="505.1797"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="156.1094" style="stroke:#000000;stroke-width:2.0;" width="512" x="10" y="656.0703"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="3900.7344" style="stroke:#000000;stroke-width:2.0;" width="1670.5" x="429" y="947.5859"/><rect fill="#FFFFFF" height="589.3516" style="stroke:none;stroke-width:1.0;" width="1670.5" x="429" y="1539.4531"/><rect fill="#FFFFFF" height="649.7031" style="stroke:none;stroke-width:1.0;" width="1670.5" x="429" y="2128.8047"/><rect fill="#FFFFFF" height="589.3516" style="stroke:none;stroke-width:1.0;" width="1670.5" x="429" y="2778.5078"/><rect fill="#FFFFFF" height="710.0547" style="stroke:none;stroke-width:1.0;" width="1670.5" x="429" y="3367.8594"/><rect fill="#FFFFFF" height="770.4063" style="stroke:none;stroke-width:1.0;" width="1670.5" x="429" y="4077.9141"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="64" x2="64" y1="89.6094" y2="5150.7813"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="475" x2="475" y1="89.6094" y2="5150.7813"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="1076.5" x2="1076.5" y1="89.6094" y2="5150.7813"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="1276.5" x2="1276.5" y1="89.6094" y2="5150.7813"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="1455.5" x2="1455.5" y1="89.6094" y2="5150.7813"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="1616.5" x2="1616.5" y1="89.6094" y2="5150.7813"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="1738.5" x2="1738.5" y1="89.6094" y2="5150.7813"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="1833.5" x2="1833.5" y1="89.6094" y2="5150.7813"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="1936.5" x2="1936.5" y1="89.6094" y2="5150.7813"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="2043.5" x2="2043.5" y1="89.6094" y2="5150.7813"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="2247.5" x2="2247.5" y1="89.6094" y2="5150.7813"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="2439.5" x2="2439.5" y1="89.6094" y2="5150.7813"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="2587.5" x2="2587.5" y1="89.6094" y2="5150.7813"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="2696.5" x2="2696.5" y1="89.6094" y2="5150.7813"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="2790.5" x2="2790.5" y1="89.6094" y2="5150.7813"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="2886.5" x2="2886.5" y1="89.6094" y2="5150.7813"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="3022.5" x2="3022.5" y1="89.6094" y2="5150.7813"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="3166.5" x2="3166.5" y1="89.6094" y2="5150.7813"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="3285.5" x2="3285.5" y1="89.6094" y2="5150.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="20" y="86.5332">Administrator</text><ellipse cx="64.5" cy="15" fill="#FEFECE" filter="url(#fvh317s3mhmk2)" rx="8" ry="8" style="stroke:#A80036;stroke-width:2.0;"/><path d="M64.5,23 L64.5,50 M51.5,31 L77.5,31 M64.5,50 L51.5,65 M64.5,50 L77.5,65 " fill="none" filter="url(#fvh317s3mhmk2)" style="stroke:#A80036;stroke-width:2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="20" y="5164.3145">Administrator</text><ellipse cx="64.5" cy="5177.3906" fill="#FEFECE" filter="url(#fvh317s3mhmk2)" rx="8" ry="8" style="stroke:#A80036;stroke-width:2.0;"/><path d="M64.5,5185.3906 L64.5,5212.3906 M51.5,5193.3906 L77.5,5193.3906 M64.5,5212.3906 L51.5,5227.3906 M64.5,5212.3906 L77.5,5227.3906 " fill="none" filter="url(#fvh317s3mhmk2)" style="stroke:#A80036;stroke-width:2.0;"/><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="69" x="439" y="53"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="446" y="74.5332">:AdminUI</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="69" x="439" y="5149.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="446" y="5171.3145">:AdminUI</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="156" x="996.5" y="53"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="1003.5" y="74.5332">:SendReportController</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="156" x="996.5" y="5149.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="1003.5" y="5171.3145">:SendReportController</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="172" x="1188.5" y="53"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="158" x="1195.5" y="74.5332">:SimpleLinearRegression</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="172" x="1188.5" y="5149.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="158" x="1195.5" y="5171.3145">:SimpleLinearRegression</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="159" x="1374.5" y="53"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="145" x="1381.5" y="74.5332">:MultiLinearRegression</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="159" x="1374.5" y="5149.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="145" x="1381.5" y="5171.3145">:MultiLinearRegression</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="135" x="1547.5" y="53"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="1554.5" y="74.5332">company:Company</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="135" x="1547.5" y="5149.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="1554.5" y="5171.3145">company:Company</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="80" x="1696.5" y="35.3906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="1708" y="56.9238">testStore</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="66" x="1703.5" y="74.5332">:TestStore</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="80" x="1696.5" y="5149.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="1708" y="5171.3145">testStore</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="66" x="1703.5" y="5188.9238">:TestStore</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="82" x="1790.5" y="35.3906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68" x="1797.5" y="56.9238">covidTests</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="1804" y="74.5332">:double[]</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="82" x="1790.5" y="5149.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68" x="1797.5" y="5171.3145">covidTests</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="1804" y="5188.9238">:double[]</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="97" x="1886.5" y="35.3906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="1893.5" y="56.9238">positiveTests</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="1907.5" y="74.5332">:double[]</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="97" x="1886.5" y="5149.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="1893.5" y="5171.3145">positiveTests</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="1907.5" y="5188.9238">:double[]</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="88" x="1997.5" y="35.3906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="2022.5" y="56.9238">report</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="2004.5" y="74.5332">:ReportNHS</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="88" x="1997.5" y="5149.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="2022.5" y="5171.3145">report</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="2004.5" y="5188.9238">:ReportNHS</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="192" x="2149.5" y="35.3906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="65" x="2213" y="56.9238">reportNHS</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="2156.5" y="74.5332">&lt;&lt;interface&gt;&gt;:ReportToNHS</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="192" x="2149.5" y="5149.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="65" x="2213" y="5171.3145">reportNHS</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="2156.5" y="5188.9238">&lt;&lt;interface&gt;&gt;:ReportToNHS</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="165" x="2355.5" y="35.3906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="2362.5" y="56.9238">positiveCasesToInterval</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="2410.5" y="74.5332">:double[]</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="165" x="2355.5" y="5149.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="2362.5" y="5171.3145">positiveCasesToInterval</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="2410.5" y="5188.9238">:double[]</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="103" x="2534.5" y="35.3906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="2541.5" y="56.9238">covidTestsHp:</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="2560.5" y="74.5332">double[]</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="103" x="2534.5" y="5149.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="2541.5" y="5171.3145">covidTestsHp:</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="2560.5" y="5188.9238">double[]</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="86" x="2651.5" y="35.3906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="2670" y="56.9238">hPDays</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="2658.5" y="74.5332">:List&lt;Date&gt;</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="86" x="2651.5" y="5149.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="2670" y="5171.3145">hPDays</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="2658.5" y="5188.9238">:List&lt;Date&gt;</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="74" x="2751.5" y="35.3906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="2758.5" y="56.9238">meanAge</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="2761" y="74.5332">:double[]</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="74" x="2751.5" y="5149.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="2758.5" y="5171.3145">meanAge</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="2761" y="5188.9238">:double[]</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="91" x="2839.5" y="35.3906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="77" x="2846.5" y="56.9238">meanAgeHp</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="2857.5" y="74.5332">:double[]</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="91" x="2839.5" y="5149.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="77" x="2846.5" y="5171.3145">meanAgeHp</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="2857.5" y="5188.9238">:double[]</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="153" x="2944.5" y="35.3906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="139" x="2951.5" y="56.9238">performedTestsForHp</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="2993.5" y="74.5332">:double[]</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="153" x="2944.5" y="5149.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="139" x="2951.5" y="5171.3145">performedTestsForHp</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="2993.5" y="5188.9238">:double[]</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="106" x="3111.5" y="35.3906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="3118.5" y="56.9238">hPWeeksInitial</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="3128.5" y="74.5332">:List&lt;Date&gt;</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="106" x="3111.5" y="5149.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="3118.5" y="5171.3145">hPWeeksInitial</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="3128.5" y="5188.9238">:List&lt;Date&gt;</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="105" x="3231.5" y="35.3906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="91" x="3238.5" y="56.9238">hPWeeksFinal</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="3246" y="74.5332">: List&lt;Date&gt;</text><rect fill="#FEFECE" filter="url(#fvh317s3mhmk2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="105" x="3231.5" y="5149.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="91" x="3238.5" y="5171.3145">hPWeeksFinal</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="3246" y="5188.9238">: List&lt;Date&gt;</text><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="5033.1719" style="stroke:#A80036;stroke-width:1.0;" width="10" x="59.5" y="99.6094"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="121.9609"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="46.7031" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="182.6641"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="259.7188"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="320.4219"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="229.5938" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="381.125"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="72.0547" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="641.0703"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="743.4766"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="37.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="804.1797"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="871.8828"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="3945.0859" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="932.5859"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="224.7578" style="stroke:#A80036;stroke-width:1.0;" width="10" x="470.5" y="4908.0234"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="161.8906" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1071.5" y="411.4766"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="543.1641" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1071.5" y="988.2891"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="543.1641" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1071.5" y="1577.6406"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="603.5156" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1071.5" y="2166.9922"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="543.1641" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1071.5" y="2816.6953"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="663.8672" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1071.5" y="3406.0469"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="724.2188" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1071.5" y="4116.1016"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="164.0547" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1071.5" y="4938.375"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1271.5" y="467.1797"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1451" y="543.3672"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="1018.6406"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="1199.6953"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="1607.9922"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="1789.0469"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="2197.3438"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="2378.3984"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="2847.0469"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="3028.1016"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="3436.3984"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="3677.8047"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="4146.4531"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1612" y="4387.8594"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="1078.9922"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="1139.3438"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="1320.3984"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="1380.75"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="1441.1016"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="1668.3438"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="1728.6953"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="1909.75"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="1970.1016"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="2030.4531"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="2257.6953"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="2318.0469"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="2499.1016"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="2559.4531"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="2619.8047"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="2680.1563"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="2907.3984"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="2967.75"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3148.8047"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3209.1563"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3269.5078"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3496.75"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3557.1016"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3617.4531"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3798.5078"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3858.8594"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3919.2109"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="3979.5625"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="4206.8047"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="4267.1563"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="4327.5078"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="4508.5625"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="4568.9141"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="4629.2656"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="4689.6172"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1733.5" y="4749.9688"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="1260.0469"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="1501.4531"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="1849.3984"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="2090.8047"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="2438.75"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="2740.5078"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="3088.4531"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="3329.8594"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="3738.1563"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="4039.9141"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="4448.2109"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="4810.3203"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="133.7031" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2038.5" y="4968.7266"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="28" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2043.5" y="5007.0781"/><rect fill="#FFFFFF" filter="url(#fvh317s3mhmk2)" height="30" style="stroke:#A80036;stroke-width:1.0;" width="10" x="2242.5" y="5072.4297"/><polygon fill="#A80036" points="458.5,117.9609,468.5,121.9609,458.5,125.9609,462.5,121.9609" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="69.5" x2="464.5" y1="121.9609" y2="121.9609"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="76.5" y="117.1045">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="299" x="87.5" y="117.1045">starts the process of submitting a report to the NHS</text><polygon fill="#A80036" points="80.5,148.3125,70.5,152.3125,80.5,156.3125,76.5,152.3125" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="74.5" x2="474.5" y1="152.3125" y2="152.3125"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="86.5" y="147.4561">2</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="141" x="97.5" y="147.4561">requests the current day</text><polygon fill="#A80036" points="458.5,178.6641,468.5,182.6641,458.5,186.6641,462.5,182.6641" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="69.5" x2="464.5" y1="182.6641" y2="182.6641"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="76.5" y="177.8076">3</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="123" x="87.5" y="177.8076">types the current day</text><polygon fill="#A80036" points="80.5,225.3672,70.5,229.3672,80.5,233.3672,76.5,229.3672" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="74.5" x2="474.5" y1="229.3672" y2="229.3672"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="86.5" y="216.335">4</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="234" x="97.5" y="208.1592">asks to select the data the administrator</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="230" x="101.5" y="224.5107">wants to send to the NHS(days, weeks)</text><polygon fill="#A80036" points="458.5,255.7188,468.5,259.7188,458.5,263.7188,462.5,259.7188" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="69.5" x2="464.5" y1="259.7188" y2="259.7188"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="76.5" y="254.8623">5</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="114" x="87.5" y="254.8623">selects one of them</text><polygon fill="#A80036" points="80.5,286.0703,70.5,290.0703,80.5,294.0703,76.5,290.0703" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="74.5" x2="474.5" y1="290.0703" y2="290.0703"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="86.5" y="285.2139">6</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="228" x="97.5" y="285.2139">requests the number of historical points</text><polygon fill="#A80036" points="458.5,316.4219,468.5,320.4219,458.5,324.4219,462.5,320.4219" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="69.5" x2="464.5" y1="320.4219" y2="320.4219"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="76.5" y="315.5654">7</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="219" x="87.5" y="315.5654">defines the number of historical points</text><polygon fill="#A80036" points="80.5,346.7734,70.5,350.7734,80.5,354.7734,76.5,350.7734" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="74.5" x2="474.5" y1="350.7734" y2="350.7734"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="86.5" y="345.917">8</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="306" x="97.5" y="345.917">requests the dates interval to fit the regression model</text><polygon fill="#A80036" points="458.5,377.125,468.5,381.125,458.5,385.125,462.5,381.125" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="69.5" x2="464.5" y1="381.125" y2="381.125"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="76.5" y="376.2686">9</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="166" x="87.5" y="376.2686">determines the dates interval</text><polygon fill="#A80036" points="1059.5,407.4766,1069.5,411.4766,1059.5,415.4766,1063.5,411.4766" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="480.5" x2="1065.5" y1="411.4766" y2="411.4766"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="487.5" y="406.6201">10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="272" x="505.5" y="406.6201">regressionModel = getLinearRegressionModel()</text><path d="M986.5,426.4766 L1047.5,426.4766 L1047.5,434.4766 L1037.5,444.4766 L986.5,444.4766 L986.5,426.4766 " fill="#EEEEEE" style="stroke:#000000;stroke-width:1.0;"/><rect fill="none" height="154.8906" style="stroke:#000000;stroke-width:2.0;" width="561" x="986.5" y="426.4766"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="16" x="1001.5" y="440.9717">alt</text><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="145" x="1062.5" y="439.8955">[SimpleLinearRegression]</text><polygon fill="#A80036" points="1259.5,463.1797,1269.5,467.1797,1259.5,471.1797,1263.5,467.1797" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1265.5" y1="467.1797" y2="467.1797"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="462.3232">11</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="153" x="1106.5" y="462.3232">regressionModel = getSlr()</text><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="986.5" x2="1547.5" y1="506.1797" y2="506.1797"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="151" x="991.5" y="517.5986">[MultipleLinearRegression]</text><polygon fill="#A80036" points="1439,539.3672,1449,543.3672,1439,547.3672,1443,543.3672" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1445" y1="543.3672" y2="543.3672"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="538.5107">12</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="155" x="1106.5" y="538.5107">regressionModel = getMlr()</text><polygon fill="#A80036" points="80.5,606.7188,70.5,610.7188,80.5,614.7188,76.5,610.7188" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="74.5" x2="474.5" y1="610.7188" y2="610.7188"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="86.5" y="605.8623">13</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="358" x="104.5" y="605.8623">shows the available regression models and asks to select one</text><polygon fill="#A80036" points="458.5,637.0703,468.5,641.0703,458.5,645.0703,462.5,641.0703" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="69.5" x2="464.5" y1="641.0703" y2="641.0703"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="76.5" y="636.2139">14</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="156" x="94.5" y="636.2139">selects a regression model</text><path d="M10,656.0703 L75,656.0703 L75,664.0703 L65,674.0703 L10,674.0703 L10,656.0703 " fill="#EEEEEE" style="stroke:#000000;stroke-width:1.0;"/><rect fill="none" height="156.1094" style="stroke:#000000;stroke-width:2.0;" width="512" x="10" y="656.0703"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="20" x="25" y="670.5654">opt</text><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="145" x="90" y="669.4893">[SimpleLinearRegression]</text><polygon fill="#A80036" points="80.5,709.125,70.5,713.125,80.5,717.125,76.5,713.125" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="74.5" x2="474.5" y1="713.125" y2="713.125"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="86.5" y="700.0928">15</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="240" x="104.5" y="691.917">shows the available independent variables</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="299" x="108.5" y="708.2686">and asks to select one (number of tests, mean age)</text><polygon fill="#A80036" points="458.5,739.4766,468.5,743.4766,458.5,747.4766,462.5,743.4766" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="69.5" x2="464.5" y1="743.4766" y2="743.4766"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="76.5" y="738.6201">16</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="114" x="94.5" y="738.6201">selects one of them</text><polygon fill="#A80036" points="80.5,769.8281,70.5,773.8281,80.5,777.8281,76.5,773.8281" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="74.5" x2="474.5" y1="773.8281" y2="773.8281"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="86.5" y="768.9717">17</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="359" x="104.5" y="768.9717">requests the selection of the parameter for the hypothesis test</text><polygon fill="#A80036" points="458.5,800.1797,468.5,804.1797,458.5,808.1797,462.5,804.1797" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="69.5" x2="464.5" y1="804.1797" y2="804.1797"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="76.5" y="799.3232">18</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="114" x="94.5" y="799.3232">selects one of them</text><polygon fill="#A80036" points="80.5,837.5313,70.5,841.5313,80.5,845.5313,76.5,841.5313" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="74.5" x2="474.5" y1="841.5313" y2="841.5313"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="86.5" y="836.6748">19</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="173" x="104.5" y="836.6748">requests the significance level</text><polygon fill="#A80036" points="458.5,867.8828,468.5,871.8828,458.5,875.8828,462.5,871.8828" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="69.5" x2="464.5" y1="871.8828" y2="871.8828"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="76.5" y="867.0264">20</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="155" x="94.5" y="867.0264">types the significance level</text><polygon fill="#A80036" points="80.5,898.2344,70.5,902.2344,80.5,906.2344,76.5,902.2344" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="74.5" x2="474.5" y1="902.2344" y2="902.2344"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="86.5" y="897.3779">21</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="167" x="104.5" y="897.3779">requests the confidence level</text><polygon fill="#A80036" points="458.5,928.5859,468.5,932.5859,458.5,936.5859,462.5,932.5859" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="69.5" x2="464.5" y1="932.5859" y2="932.5859"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="76.5" y="927.7295">22</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="149" x="94.5" y="927.7295">types the confidence level</text><path d="M429,947.5859 L490,947.5859 L490,955.5859 L480,965.5859 L429,965.5859 L429,947.5859 " fill="#EEEEEE" style="stroke:#000000;stroke-width:1.0;"/><rect fill="none" height="3900.7344" style="stroke:#000000;stroke-width:2.0;" width="1670.5" x="429" y="947.5859"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="16" x="444" y="962.0811">alt</text><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="305" x="505" y="961.0049">[SimpleLinearRegression &amp;&amp; days &amp;&amp; number of tests]</text><polygon fill="#A80036" points="1059.5,984.2891,1069.5,988.2891,1059.5,992.2891,1063.5,988.2891" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="480.5" x2="1065.5" y1="988.2891" y2="988.2891"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="487.5" y="983.4326">23</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="461" x="505.5" y="983.4326">getReportForDays(startDate, endDate, currentDate, hP, sL, cL, parameterToHT)</text><polygon fill="#A80036" points="1600,1014.6406,1610,1018.6406,1600,1022.6406,1604,1018.6406" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1606" y1="1018.6406" y2="1018.6406"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="1013.7842">24</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="151" x="1106.5" y="1013.7842">testStore = getTestStore()</text><polygon fill="#A80036" points="1721.5,1074.9922,1731.5,1078.9922,1721.5,1082.9922,1725.5,1078.9922" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="1078.9922" y2="1078.9922"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="1074.1357">25</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="355" x="1106.5" y="1074.1357">covidTests = covidTestsLinearRegression(startDate, endDate)</text><polygon fill="#A80036" points="1721.5,1135.3438,1731.5,1139.3438,1721.5,1143.3438,1725.5,1139.3438" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="1139.3438" y2="1139.3438"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="1134.4873">26</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="414" x="1106.5" y="1134.4873">positiveTests = positiveCovidTestsLinearRegression(startDate, endDate)</text><polygon fill="#A80036" points="1600,1195.6953,1610,1199.6953,1600,1203.6953,1604,1199.6953" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1606" y1="1199.6953" y2="1199.6953"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="1194.8389">27</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="158" x="1106.5" y="1194.8389">report = createReportNHS()</text><polygon fill="#A80036" points="2026.5,1256.0469,2036.5,1260.0469,2026.5,1264.0469,2030.5,1260.0469" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="2032.5" y1="1260.0469" y2="1260.0469"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="1255.1904">28</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="453" x="1106.5" y="1255.1904">createLinearRegression(covidTests, positiveTests, sL/100, cL, parameterToHT)</text><polygon fill="#A80036" points="1721.5,1316.3984,1731.5,1320.3984,1721.5,1324.3984,1725.5,1320.3984" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="1320.3984" y2="1320.3984"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="1315.542">29</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="429" x="1106.5" y="1315.542">positiveCasesToInterval = getPositiveCovidTestsPerWeek(currentDate, hP)</text><polygon fill="#A80036" points="1721.5,1376.75,1731.5,1380.75,1721.5,1384.75,1725.5,1380.75" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="1380.75" y2="1380.75"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="1375.8936">30</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="179" x="1106.5" y="1375.8936">covidTestsHp = getTestForHp()</text><polygon fill="#A80036" points="1721.5,1437.1016,1731.5,1441.1016,1721.5,1445.1016,1725.5,1441.1016" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="1441.1016" y2="1441.1016"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="1436.2451">31</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="136" x="1106.5" y="1436.2451">hPDays = getHPDays()</text><polygon fill="#A80036" points="2026.5,1497.4531,2036.5,1501.4531,2026.5,1505.4531,2030.5,1501.4531" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="2032.5" y1="1501.4531" y2="1501.4531"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="1496.5967">32</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="408" x="1106.5" y="1496.5967">addConfLevel(positiveCasesToInterval , covidTestsHp, hPDays, cL/100)</text><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="429" x2="2099.5" y1="1540.4531" y2="1540.4531"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="269" x="434" y="1551.8721">[SimpleLinearRegression &amp;&amp; days &amp;&amp; mean age]</text><polygon fill="#A80036" points="1059.5,1573.6406,1069.5,1577.6406,1059.5,1581.6406,1063.5,1577.6406" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="480.5" x2="1065.5" y1="1577.6406" y2="1577.6406"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="487.5" y="1572.7842">33</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="543" x="505.5" y="1572.7842">getReportForDaysWithMeanAge(startDate, endDate, currentDate, hP, sL, cL, parameterToHT)</text><polygon fill="#A80036" points="1600,1603.9922,1610,1607.9922,1600,1611.9922,1604,1607.9922" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1606" y1="1607.9922" y2="1607.9922"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="1603.1357">34</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="151" x="1106.5" y="1603.1357">testStore = getTestStore()</text><polygon fill="#A80036" points="1721.5,1664.3438,1731.5,1668.3438,1721.5,1672.3438,1725.5,1668.3438" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="1668.3438" y2="1668.3438"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="1663.4873">35</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="343" x="1106.5" y="1663.4873">meanAge = meanAgeLinearRegression(startDate, endDate)</text><polygon fill="#A80036" points="1721.5,1724.6953,1731.5,1728.6953,1721.5,1732.6953,1725.5,1728.6953" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="1728.6953" y2="1728.6953"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="1723.8389">36</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="414" x="1106.5" y="1723.8389">positiveTests = positiveCovidTestsLinearRegression(startDate, endDate)</text><polygon fill="#A80036" points="1600,1785.0469,1610,1789.0469,1600,1793.0469,1604,1789.0469" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1606" y1="1789.0469" y2="1789.0469"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="1784.1904">37</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="158" x="1106.5" y="1784.1904">report = createReportNHS()</text><polygon fill="#A80036" points="2026.5,1845.3984,2036.5,1849.3984,2026.5,1853.3984,2030.5,1849.3984" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="2032.5" y1="1849.3984" y2="1849.3984"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="1844.542">38</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="447" x="1106.5" y="1844.542">createLinearRegression(meanAge, positiveTests, sL/100, cL, parameterToHT)</text><polygon fill="#A80036" points="1721.5,1905.75,1731.5,1909.75,1721.5,1913.75,1725.5,1909.75" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="1909.75" y2="1909.75"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="1904.8936">39</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="418" x="1106.5" y="1904.8936">positiveCasesToInterval = getPositiveCovidTestsPerDay(currentDate, hP)</text><polygon fill="#A80036" points="1721.5,1966.1016,1731.5,1970.1016,1721.5,1974.1016,1725.5,1970.1016" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="1970.1016" y2="1970.1016"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="1965.2451">40</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="317" x="1106.5" y="1965.2451">meanAgeHp = getMeanAgeForHpDay(currentDate, hP)</text><polygon fill="#A80036" points="1721.5,2026.4531,1731.5,2030.4531,1721.5,2034.4531,1725.5,2030.4531" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="2030.4531" y2="2030.4531"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="2025.5967">41</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="136" x="1106.5" y="2025.5967">hPDays = getHPDays()</text><polygon fill="#A80036" points="2026.5,2086.8047,2036.5,2090.8047,2026.5,2094.8047,2030.5,2090.8047" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="2032.5" y1="2090.8047" y2="2090.8047"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="2085.9482">42</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="406" x="1106.5" y="2085.9482">addConfLevel((positiveCasesToInterval , meanAgeHp, hPDays, cL/100)</text><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="429" x2="2099.5" y1="2129.8047" y2="2129.8047"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="317" x="434" y="2141.2236">[SimpleLinearRegression &amp;&amp; weeks &amp;&amp; number of tests]</text><polygon fill="#A80036" points="1059.5,2162.9922,1069.5,2166.9922,1059.5,2170.9922,1063.5,2166.9922" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="480.5" x2="1065.5" y1="2166.9922" y2="2166.9922"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="487.5" y="2162.1357">43</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="472" x="505.5" y="2162.1357">getReportForWeeks(startDate, endDate, currentDate, hP, sL, cL, parameterToHT)</text><polygon fill="#A80036" points="1600,2193.3438,1610,2197.3438,1600,2201.3438,1604,2197.3438" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1606" y1="2197.3438" y2="2197.3438"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="2192.4873">44</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="151" x="1106.5" y="2192.4873">testStore = getTestStore()</text><polygon fill="#A80036" points="1721.5,2253.6953,1731.5,2257.6953,1721.5,2261.6953,1725.5,2257.6953" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="2257.6953" y2="2257.6953"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="2252.8389">45</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="355" x="1106.5" y="2252.8389">covidTests = covidTestsLinearRegression(startDate, endDate)</text><polygon fill="#A80036" points="1721.5,2314.0469,1731.5,2318.0469,1721.5,2322.0469,1725.5,2318.0469" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="2318.0469" y2="2318.0469"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="2313.1904">46</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="414" x="1106.5" y="2313.1904">positiveTests = positiveCovidTestsLinearRegression(startDate, endDate)</text><polygon fill="#A80036" points="1600,2374.3984,1610,2378.3984,1600,2382.3984,1604,2378.3984" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1606" y1="2378.3984" y2="2378.3984"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="2373.542">47</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="158" x="1106.5" y="2373.542">report = createReportNHS()</text><polygon fill="#A80036" points="2026.5,2434.75,2036.5,2438.75,2026.5,2442.75,2030.5,2438.75" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="2032.5" y1="2438.75" y2="2438.75"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="2433.8936">48</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="453" x="1106.5" y="2433.8936">createLinearRegression(covidTests, positiveTests, sL/100, cL, parameterToHT)</text><polygon fill="#A80036" points="1721.5,2495.1016,1731.5,2499.1016,1721.5,2503.1016,1725.5,2499.1016" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="2499.1016" y2="2499.1016"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="2494.2451">49</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="429" x="1106.5" y="2494.2451">positiveCasesToInterval = getPositiveCovidTestsPerWeek(currentDate, hP)</text><polygon fill="#A80036" points="1721.5,2555.4531,1731.5,2559.4531,1721.5,2563.4531,1725.5,2559.4531" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="2559.4531" y2="2559.4531"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="2554.5967">50</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="389" x="1106.5" y="2554.5967">performedTestsForHp = getCovidTestsForWeekHp(currentDate, hP)</text><polygon fill="#A80036" points="1721.5,2615.8047,1731.5,2619.8047,1721.5,2623.8047,1725.5,2619.8047" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="2619.8047" y2="2619.8047"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="2614.9482">51</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="216" x="1106.5" y="2614.9482">hPWeeksInitial = gethPWeeksInitial()</text><polygon fill="#A80036" points="1721.5,2676.1563,1731.5,2680.1563,1721.5,2684.1563,1725.5,2680.1563" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="2680.1563" y2="2680.1563"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="2675.2998">52</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="212" x="1106.5" y="2675.2998">hPWeeksFinal = gethPWeeksFinal()</text><polygon fill="#A80036" points="2026.5,2736.5078,2036.5,2740.5078,2026.5,2744.5078,2030.5,2740.5078" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="2032.5" y1="2740.5078" y2="2740.5078"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="2735.6514">53</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="638" x="1106.5" y="2735.6514">addConfLevelForWeek(positiveCasesToInterval, performedTestsForHp, hPWeeksInitial, hPWeeksFinal, cL/100)</text><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="429" x2="2099.5" y1="2779.5078" y2="2779.5078"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="281" x="434" y="2790.9268">[SimpleLinearRegression &amp;&amp; weeks &amp;&amp; mean age]</text><polygon fill="#A80036" points="1059.5,2812.6953,1069.5,2816.6953,1059.5,2820.6953,1063.5,2816.6953" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="480.5" x2="1065.5" y1="2816.6953" y2="2816.6953"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="487.5" y="2811.8389">54</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="554" x="505.5" y="2811.8389">getReportForWeeksWithMeanAge(startDate, endDate, currentDate, hP, sL, cL, parameterToHT)</text><polygon fill="#A80036" points="1600,2843.0469,1610,2847.0469,1600,2851.0469,1604,2847.0469" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1606" y1="2847.0469" y2="2847.0469"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="2842.1904">55</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="151" x="1106.5" y="2842.1904">testStore = getTestStore()</text><polygon fill="#A80036" points="1721.5,2903.3984,1731.5,2907.3984,1721.5,2911.3984,1725.5,2907.3984" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="2907.3984" y2="2907.3984"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="2902.542">56</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="343" x="1106.5" y="2902.542">meanAge = meanAgeLinearRegression(startDate, endDate)</text><polygon fill="#A80036" points="1721.5,2963.75,1731.5,2967.75,1721.5,2971.75,1725.5,2967.75" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="2967.75" y2="2967.75"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="2962.8936">57</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="414" x="1106.5" y="2962.8936">positiveTests = positiveCovidTestsLinearRegression(startDate, endDate)</text><polygon fill="#A80036" points="1600,3024.1016,1610,3028.1016,1600,3032.1016,1604,3028.1016" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1606" y1="3028.1016" y2="3028.1016"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="3023.2451">58</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="158" x="1106.5" y="3023.2451">report = createReportNHS()</text><polygon fill="#A80036" points="2026.5,3084.4531,2036.5,3088.4531,2026.5,3092.4531,2030.5,3088.4531" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="2032.5" y1="3088.4531" y2="3088.4531"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="3083.5967">59</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="447" x="1106.5" y="3083.5967">createLinearRegression(meanAge, positiveTests, sL/100, cL, parameterToHT)</text><polygon fill="#A80036" points="1721.5,3144.8047,1731.5,3148.8047,1721.5,3152.8047,1725.5,3148.8047" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="3148.8047" y2="3148.8047"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="3143.9482">60</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="429" x="1106.5" y="3143.9482">positiveCasesToInterval = getPositiveCovidTestsPerWeek(currentDate, hP)</text><polygon fill="#A80036" points="1721.5,3205.1563,1731.5,3209.1563,1721.5,3213.1563,1725.5,3209.1563" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="3209.1563" y2="3209.1563"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="3204.2998">61</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="330" x="1106.5" y="3204.2998">meanAgeHp = getMeanAgeForHPWeek(currentDate, hP)</text><polygon fill="#A80036" points="1721.5,3265.5078,1731.5,3269.5078,1721.5,3273.5078,1725.5,3269.5078" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="3269.5078" y2="3269.5078"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="3264.6514">62</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="136" x="1106.5" y="3264.6514">hPDays = getHPDays()</text><polygon fill="#A80036" points="2026.5,3325.8594,2036.5,3329.8594,2026.5,3333.8594,2030.5,3329.8594" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="2032.5" y1="3329.8594" y2="3329.8594"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="3325.0029">63</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="585" x="1106.5" y="3325.0029">addConfLevelForWeek(positiveCasesToInterval, meanAgeHp, hPWeeksInitial, hPWeeksFinal, cL/100)</text><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="429" x2="2099.5" y1="3368.8594" y2="3368.8594"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="199" x="434" y="3380.2783">[MultipleLinearRegression &amp;&amp; Days]</text><polygon fill="#A80036" points="1059.5,3402.0469,1069.5,3406.0469,1059.5,3410.0469,1063.5,3406.0469" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="480.5" x2="1065.5" y1="3406.0469" y2="3406.0469"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="487.5" y="3401.1904">64</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="499" x="505.5" y="3401.1904">sendReportMultilinearRegressionForDays(startDate, endDate, currentDate, hP, sL, cL)</text><polygon fill="#A80036" points="1600,3432.3984,1610,3436.3984,1600,3440.3984,1604,3436.3984" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1606" y1="3436.3984" y2="3436.3984"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="3431.542">65</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="151" x="1106.5" y="3431.542">testStore = getTestStore()</text><polygon fill="#A80036" points="1721.5,3492.75,1731.5,3496.75,1721.5,3500.75,1725.5,3496.75" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="3496.75" y2="3496.75"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="3491.8936">66</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="355" x="1106.5" y="3491.8936">covidTests = covidTestsLinearRegression(startDate, endDate)</text><polygon fill="#A80036" points="1721.5,3553.1016,1731.5,3557.1016,1721.5,3561.1016,1725.5,3557.1016" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="3557.1016" y2="3557.1016"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="3552.2451">67</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="414" x="1106.5" y="3552.2451">positiveTests = positiveCovidTestsLinearRegression(startDate, endDate)</text><polygon fill="#A80036" points="1721.5,3613.4531,1731.5,3617.4531,1721.5,3621.4531,1725.5,3617.4531" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="3617.4531" y2="3617.4531"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="3612.5967">68</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="343" x="1106.5" y="3612.5967">meanAge = meanAgeLinearRegression(startDate, endDate)</text><polygon fill="#A80036" points="1600,3673.8047,1610,3677.8047,1600,3681.8047,1604,3677.8047" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1606" y1="3677.8047" y2="3677.8047"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="3672.9482">69</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="158" x="1106.5" y="3672.9482">report = createReportNHS()</text><polygon fill="#A80036" points="2026.5,3734.1563,2036.5,3738.1563,2026.5,3742.1563,2030.5,3738.1563" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="2032.5" y1="3738.1563" y2="3738.1563"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="3733.2998">70</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="448" x="1106.5" y="3733.2998">createMultiLinearRegression(covidTests, positiveTests, meanAge, sL/100, cL)</text><polygon fill="#A80036" points="1721.5,3794.5078,1731.5,3798.5078,1721.5,3802.5078,1725.5,3798.5078" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="3798.5078" y2="3798.5078"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="3793.6514">71</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="418" x="1106.5" y="3793.6514">positiveCasesToInterval = getPositiveCovidTestsPerDay(currentDate, hP)</text><polygon fill="#A80036" points="1721.5,3854.8594,1731.5,3858.8594,1721.5,3862.8594,1725.5,3858.8594" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="3858.8594" y2="3858.8594"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="3854.0029">72</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="270" x="1106.5" y="3854.0029">covidTestsHp = getTestForHp(currentDate, hP)</text><polygon fill="#A80036" points="1721.5,3915.2109,1731.5,3919.2109,1721.5,3923.2109,1725.5,3919.2109" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="3919.2109" y2="3919.2109"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="3914.3545">73</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="317" x="1106.5" y="3914.3545">meanAgeHp = getMeanAgeForHpDay(currentDate, hP)</text><polygon fill="#A80036" points="1721.5,3975.5625,1731.5,3979.5625,1721.5,3983.5625,1725.5,3979.5625" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="3979.5625" y2="3979.5625"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="3974.7061">74</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="136" x="1106.5" y="3974.7061">hPDays = getHPDays()</text><polygon fill="#A80036" points="2026.5,4035.9141,2036.5,4039.9141,2026.5,4043.9141,2030.5,4039.9141" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="2032.5" y1="4039.9141" y2="4039.9141"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="4035.0576">75</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="557" x="1106.5" y="4035.0576">addConfLevelForMultiRegr(positiveCasesToInterval, covidTestsHp, meanAgeHp, hPDays, cL/100)</text><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="429" x2="2099.5" y1="4078.9141" y2="4078.9141"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="211" x="434" y="4090.333">[MultipleLinearRegression &amp;&amp; weeks]</text><polygon fill="#A80036" points="1059.5,4112.1016,1069.5,4116.1016,1059.5,4120.1016,1063.5,4116.1016" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="480.5" x2="1065.5" y1="4116.1016" y2="4116.1016"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="487.5" y="4111.2451">76</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="510" x="505.5" y="4111.2451">sendReportMultilinearRegressionForWeeks(startDate, endDate, currentDate, hP, sL, cL)</text><polygon fill="#A80036" points="1600,4142.4531,1610,4146.4531,1600,4150.4531,1604,4146.4531" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1606" y1="4146.4531" y2="4146.4531"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="4141.5967">77</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="151" x="1106.5" y="4141.5967">testStore = getTestStore()</text><polygon fill="#A80036" points="1721.5,4202.8047,1731.5,4206.8047,1721.5,4210.8047,1725.5,4206.8047" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="4206.8047" y2="4206.8047"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="4201.9482">78</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="355" x="1106.5" y="4201.9482">covidTests = covidTestsLinearRegression(startDate, endDate)</text><polygon fill="#A80036" points="1721.5,4263.1563,1731.5,4267.1563,1721.5,4271.1563,1725.5,4267.1563" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="4267.1563" y2="4267.1563"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="4262.2998">79</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="414" x="1106.5" y="4262.2998">positiveTests = positiveCovidTestsLinearRegression(startDate, endDate)</text><polygon fill="#A80036" points="1721.5,4323.5078,1731.5,4327.5078,1721.5,4331.5078,1725.5,4327.5078" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="4327.5078" y2="4327.5078"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="4322.6514">80</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="343" x="1106.5" y="4322.6514">meanAge = meanAgeLinearRegression(startDate, endDate)</text><polygon fill="#A80036" points="1600,4383.8594,1610,4387.8594,1600,4391.8594,1604,4387.8594" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1606" y1="4387.8594" y2="4387.8594"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="4383.0029">81</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="158" x="1106.5" y="4383.0029">report = createReportNHS()</text><polygon fill="#A80036" points="2026.5,4444.2109,2036.5,4448.2109,2026.5,4452.2109,2030.5,4448.2109" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="2032.5" y1="4448.2109" y2="4448.2109"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="4443.3545">82</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="448" x="1106.5" y="4443.3545">createMultiLinearRegression(covidTests, positiveTests, meanAge, sL/100, cL)</text><polygon fill="#A80036" points="1721.5,4504.5625,1731.5,4508.5625,1721.5,4512.5625,1725.5,4508.5625" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="4508.5625" y2="4508.5625"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="4503.7061">83</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="429" x="1106.5" y="4503.7061">positiveCasesToInterval = getPositiveCovidTestsPerWeek(currentDate, hP)</text><polygon fill="#A80036" points="1721.5,4564.9141,1731.5,4568.9141,1721.5,4572.9141,1725.5,4568.9141" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="4568.9141" y2="4568.9141"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="4564.0576">84</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="385" x="1106.5" y="4564.0576">perfomedTestsForHp = getCovidTestsForWeekHp(currentDate, hP)</text><polygon fill="#A80036" points="1721.5,4625.2656,1731.5,4629.2656,1721.5,4633.2656,1725.5,4629.2656" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="4629.2656" y2="4629.2656"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="4624.4092">85</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="330" x="1106.5" y="4624.4092">meanAgeHp = getMeanAgeForHPWeek(currentDate, hP)</text><polygon fill="#A80036" points="1721.5,4685.6172,1731.5,4689.6172,1721.5,4693.6172,1725.5,4689.6172" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="4689.6172" y2="4689.6172"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="4684.7607">86</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="216" x="1106.5" y="4684.7607">hPWeeksInitial = gethPWeeksInitial()</text><polygon fill="#A80036" points="1721.5,4745.9688,1731.5,4749.9688,1721.5,4753.9688,1725.5,4749.9688" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="1727.5" y1="4749.9688" y2="4749.9688"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="4745.1123">87</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="212" x="1106.5" y="4745.1123">hPWeeksFinal = gethPWeeksFinal()</text><polygon fill="#A80036" points="2026.5,4806.3203,2036.5,4810.3203,2026.5,4814.3203,2030.5,4810.3203" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="2032.5" y1="4810.3203" y2="4810.3203"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="4805.4639">88</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="787" x="1106.5" y="4805.4639">addConfLevelForWeekForMultiRegr(positiveCasesToInterval, perfomedTestsForHp, meanAgeHp, hPWeeksInitial, hPWeeksFinal, cL/100)</text><polygon fill="#A80036" points="80.5,4873.6719,70.5,4877.6719,80.5,4881.6719,76.5,4877.6719" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="74.5" x2="474.5" y1="4877.6719" y2="4877.6719"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="86.5" y="4872.8154">89</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="254" x="104.5" y="4872.8154">shows all data and requests for confirmation</text><polygon fill="#A80036" points="458.5,4904.0234,468.5,4908.0234,458.5,4912.0234,462.5,4908.0234" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="69.5" x2="464.5" y1="4908.0234" y2="4908.0234"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="76.5" y="4903.167">90</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="117" x="94.5" y="4903.167">confirms all the data</text><polygon fill="#A80036" points="1059.5,4934.375,1069.5,4938.375,1059.5,4942.375,1063.5,4938.375" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="480.5" x2="1065.5" y1="4938.375" y2="4938.375"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="487.5" y="4933.5186">91</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="74" x="505.5" y="4933.5186">sendReport()</text><polygon fill="#A80036" points="2026.5,4964.7266,2036.5,4968.7266,2026.5,4972.7266,2030.5,4968.7266" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1081.5" x2="2032.5" y1="4968.7266" y2="4968.7266"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1088.5" y="4963.8701">92</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="101" x="1106.5" y="4963.8701">sendReportNHS()</text><line style="stroke:#A80036;stroke-width:1.0;" x1="2053.5" x2="2095.5" y1="4999.0781" y2="4999.0781"/><line style="stroke:#A80036;stroke-width:1.0;" x1="2095.5" x2="2095.5" y1="4999.0781" y2="5012.0781"/><line style="stroke:#A80036;stroke-width:1.0;" x1="2054.5" x2="2095.5" y1="5012.0781" y2="5012.0781"/><polygon fill="#A80036" points="2064.5,5008.0781,2054.5,5012.0781,2064.5,5016.0781,2060.5,5012.0781" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="2060.5" y="4994.2217">93</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="109" x="2078.5" y="4994.2217">report = reportApi()</text><polygon fill="#A80036" points="2230.5,5068.4297,2240.5,5072.4297,2230.5,5076.4297,2234.5,5072.4297" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="2048.5" x2="2236.5" y1="5072.4297" y2="5072.4297"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="2055.5" y="5067.5732">94</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="157" x="2073.5" y="5067.5732">writeUsingFileWriter(report)</text><polygon fill="#A80036" points="75.5,5128.7813,65.5,5132.7813,75.5,5136.7813,71.5,5132.7813" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="69.5" x2="474.5" y1="5132.7813" y2="5132.7813"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="81.5" y="5127.9248">95</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="152" x="99.5" y="5127.9248">informs operation success</text><!--MD5=[df7ab3c2f30bd6de3640e57b7cbd470b]
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+actor "Administrator" as ADM
+participant ":AdminUI" as UI
+participant ":SendReportController" as CTRL
+participant ":SimpleLinearRegression" as SLR
+participant ":MultiLinearRegression" as MLR
+participant "company:Company" as ML
+participant "testStore\n:TestStore" as TSTORE
+participant "covidTests\n:double[]"
+participant "positiveTests\n:double[]"
+participant "report\n:ReportNHS" as REPORT
+participant "reportNHS\n<<interface>>:ReportToNHS" as REPORTINTERFACE
+participant "positiveCasesToInterval\n:double[]"
+participant "covidTestsHp:\ndouble[]"
+participant "hPDays\n:List<Date>"
+participant "meanAge\n:double[]"
+participant "meanAgeHp\n:double[]"
+participant "performedTestsForHp\n:double[]"
+participant "hPWeeksInitial\n:List<Date>"
+participant "hPWeeksFinal\n: List<Date>"
+
+
+activate ADM
+
+ADM -> UI: starts the process of submitting a report to the NHS
+activate UI
+UI - -> ADM: requests the current day
+deactivate UI
+ADM -> UI: types the current day
+activate UI
+UI - -> ADM: asks to select the data the administrator\n wants to send to the NHS(days, weeks)
+deactivate UI
+ADM -> UI: selects one of them
+activate UI
+UI - -> ADM: requests the number of historical points
+deactivate UI
+ADM -> UI: defines the number of historical points
+activate UI
+UI - -> ADM: requests the dates interval to fit the regression model
+deactivate UI
+ADM -> UI: determines the dates interval
+activate UI
+UI -> CTRL: regressionModel = getLinearRegressionModel()
+activate CTRL
+alt SimpleLinearRegression
+CTRL -> SLR: regressionModel = getSlr()
+activate SLR
+deactivate SLR
+else MultipleLinearRegression
+CTRL -> MLR: regressionModel = getMlr()
+activate MLR
+deactivate MLR
+deactivate CTRL
+end
+UI - -> ADM: shows the available regression models and asks to select one
+deactivate UI
+ADM -> UI: selects a regression model
+activate UI
+opt SimpleLinearRegression
+UI - -> ADM: shows the available independent variables\n and asks to select one (number of tests, mean age)
+deactivate UI
+ADM -> UI: selects one of them
+activate UI
+UI - -> ADM: requests the selection of the parameter for the hypothesis test
+deactivate UI
+ADM -> UI: selects one of them
+activate UI
+end
+UI - -> ADM: requests the significance level
+deactivate UI
+ADM -> UI: types the significance level
+activate UI
+UI - -> ADM: requests the confidence level
+deactivate UI
+ADM -> UI: types the confidence level
+activate UI
+alt SimpleLinearRegression && days && number of tests
+UI -> CTRL: getReportForDays(startDate, endDate, currentDate, hP, sL, cL, parameterToHT)
+activate CTRL
+CTRL -> ML: testStore = getTestStore()
+activate ML
+deactivate ML
+CTRL -> TSTORE: covidTests = covidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: positiveTests = positiveCovidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> ML: report = createReportNHS()
+activate ML
+deactivate ML
+CTRL -> REPORT: createLinearRegression(covidTests, positiveTests, sL/100, cL, parameterToHT)
+activate REPORT
+deactivate REPORT
+CTRL -> TSTORE: positiveCasesToInterval = getPositiveCovidTestsPerWeek(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: covidTestsHp = getTestForHp()
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: hPDays = getHPDays()
+activate TSTORE
+deactivate TSTORE
+CTRL -> REPORT: addConfLevel(positiveCasesToInterval , covidTestsHp, hPDays, cL/100)
+activate REPORT
+deactivate REPORT
+deactivate CTRL
+else SimpleLinearRegression && days && mean age
+UI -> CTRL: getReportForDaysWithMeanAge(startDate, endDate, currentDate, hP, sL, cL, parameterToHT)
+activate CTRL
+CTRL -> ML: testStore = getTestStore()
+activate ML
+deactivate ML
+CTRL -> TSTORE: meanAge = meanAgeLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: positiveTests = positiveCovidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> ML: report = createReportNHS()
+activate ML
+deactivate ML
+CTRL -> REPORT: createLinearRegression(meanAge, positiveTests, sL/100, cL, parameterToHT)
+activate REPORT
+deactivate REPORT
+CTRL -> TSTORE: positiveCasesToInterval = getPositiveCovidTestsPerDay(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: meanAgeHp = getMeanAgeForHpDay(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: hPDays = getHPDays()
+activate TSTORE
+deactivate TSTORE
+CTRL -> REPORT:addConfLevel((positiveCasesToInterval , meanAgeHp, hPDays, cL/100)
+activate REPORT
+deactivate REPORT
+deactivate CTRL
+else SimpleLinearRegression && weeks && number of tests
+UI -> CTRL: getReportForWeeks(startDate, endDate, currentDate, hP, sL, cL, parameterToHT)
+activate CTRL
+CTRL -> ML: testStore = getTestStore()
+activate ML
+deactivate ML
+CTRL -> TSTORE: covidTests = covidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: positiveTests = positiveCovidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> ML: report = createReportNHS()
+activate ML
+deactivate ML
+CTRL -> REPORT: createLinearRegression(covidTests, positiveTests, sL/100, cL, parameterToHT)
+activate REPORT
+deactivate REPORT
+CTRL -> TSTORE: positiveCasesToInterval = getPositiveCovidTestsPerWeek(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: performedTestsForHp = getCovidTestsForWeekHp(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: hPWeeksInitial = gethPWeeksInitial()
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: hPWeeksFinal = gethPWeeksFinal()
+activate TSTORE
+deactivate TSTORE
+CTRL -> REPORT: addConfLevelForWeek(positiveCasesToInterval, performedTestsForHp, hPWeeksInitial, hPWeeksFinal, cL/100)
+activate REPORT
+deactivate REPORT
+deactivate CTRL
+else SimpleLinearRegression && weeks && mean age
+UI -> CTRL: getReportForWeeksWithMeanAge(startDate, endDate, currentDate, hP, sL, cL, parameterToHT)
+activate CTRL
+CTRL -> ML: testStore = getTestStore()
+activate ML
+deactivate ML
+CTRL -> TSTORE: meanAge = meanAgeLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: positiveTests = positiveCovidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> ML: report = createReportNHS()
+activate ML
+deactivate ML
+CTRL -> REPORT: createLinearRegression(meanAge, positiveTests, sL/100, cL, parameterToHT)
+activate REPORT
+deactivate REPORT
+CTRL -> TSTORE: positiveCasesToInterval = getPositiveCovidTestsPerWeek(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: meanAgeHp = getMeanAgeForHPWeek(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: hPDays = getHPDays()
+activate TSTORE
+deactivate TSTORE
+CTRL -> REPORT: addConfLevelForWeek(positiveCasesToInterval, meanAgeHp, hPWeeksInitial, hPWeeksFinal, cL/100)
+activate REPORT
+deactivate REPORT
+deactivate CTRL
+else MultipleLinearRegression && Days
+UI -> CTRL: sendReportMultilinearRegressionForDays(startDate, endDate, currentDate, hP, sL, cL)
+activate CTRL
+CTRL -> ML: testStore = getTestStore()
+activate ML
+deactivate ML
+CTRL -> TSTORE: covidTests = covidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: positiveTests = positiveCovidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: meanAge = meanAgeLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> ML: report = createReportNHS()
+activate ML
+deactivate ML
+CTRL -> REPORT: createMultiLinearRegression(covidTests, positiveTests, meanAge, sL/100, cL)
+activate REPORT
+deactivate REPORT
+CTRL ->TSTORE: positiveCasesToInterval = getPositiveCovidTestsPerDay(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: covidTestsHp = getTestForHp(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL ->TSTORE: meanAgeHp = getMeanAgeForHpDay(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE:hPDays = getHPDays()
+activate TSTORE
+deactivate TSTORE
+CTRL -> REPORT: addConfLevelForMultiRegr(positiveCasesToInterval, covidTestsHp, meanAgeHp, hPDays, cL/100)
+activate REPORT
+deactivate REPORT
+deactivate CTRL
+else MultipleLinearRegression && weeks
+UI -> CTRL: sendReportMultilinearRegressionForWeeks(startDate, endDate, currentDate, hP, sL, cL)
+activate CTRL
+CTRL -> ML: testStore = getTestStore()
+activate ML
+deactivate ML
+CTRL -> TSTORE: covidTests = covidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: positiveTests = positiveCovidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: meanAge = meanAgeLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> ML: report = createReportNHS()
+activate ML
+deactivate ML
+CTRL -> REPORT: createMultiLinearRegression(covidTests, positiveTests, meanAge, sL/100, cL)
+activate REPORT
+deactivate REPORT
+CTRL ->TSTORE: positiveCasesToInterval = getPositiveCovidTestsPerWeek(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: perfomedTestsForHp = getCovidTestsForWeekHp(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: meanAgeHp = getMeanAgeForHPWeek(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: hPWeeksInitial = gethPWeeksInitial()
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: hPWeeksFinal = gethPWeeksFinal()
+activate TSTORE
+deactivate TSTORE
+CTRL ->REPORT: addConfLevelForWeekForMultiRegr(positiveCasesToInterval, perfomedTestsForHp, meanAgeHp, hPWeeksInitial, hPWeeksFinal, cL/100)
+activate REPORT
+deactivate REPORT
+deactivate CTRL
+end
+UI - -> ADM: shows all data and requests for confirmation
+deactivate UI
+ADM -> UI: confirms all the data
+activate UI
+UI -> CTRL: sendReport()
+activate CTRL
+CTRL -> REPORT: sendReportNHS()
+activate REPORT
+REPORT -> REPORT: report = reportApi()
+activate REPORT
+deactivate REPORT
+REPORT -> REPORTINTERFACE: writeUsingFileWriter(report)
+activate REPORTINTERFACE
+deactivate REPORT
+deactivate REPORTINTERFACE
+deactivate CTRL
+UI - -> ADM: informs operation success
+deactivate UI
+
+deactivate ADM
+@enduml
+
+@startuml
+
+autonumber
+
+actor "Administrator" as ADM
+participant ":AdminUI" as UI
+participant ":SendReportController" as CTRL
+participant ":SimpleLinearRegression" as SLR
+participant ":MultiLinearRegression" as MLR
+participant "company:Company" as ML
+participant "testStore\n:TestStore" as TSTORE
+participant "covidTests\n:double[]"
+participant "positiveTests\n:double[]"
+participant "report\n:ReportNHS" as REPORT
+participant "reportNHS\n<<interface>>:ReportToNHS" as REPORTINTERFACE
+participant "positiveCasesToInterval\n:double[]"
+participant "covidTestsHp:\ndouble[]"
+participant "hPDays\n:List<Date>"
+participant "meanAge\n:double[]"
+participant "meanAgeHp\n:double[]"
+participant "performedTestsForHp\n:double[]"
+participant "hPWeeksInitial\n:List<Date>"
+participant "hPWeeksFinal\n: List<Date>"
+
+
+activate ADM
+
+ADM -> UI: starts the process of submitting a report to the NHS
+activate UI
+UI - -> ADM: requests the current day
+deactivate UI
+ADM -> UI: types the current day
+activate UI
+UI - -> ADM: asks to select the data the administrator\n wants to send to the NHS(days, weeks)
+deactivate UI
+ADM -> UI: selects one of them
+activate UI
+UI - -> ADM: requests the number of historical points
+deactivate UI
+ADM -> UI: defines the number of historical points
+activate UI
+UI - -> ADM: requests the dates interval to fit the regression model
+deactivate UI
+ADM -> UI: determines the dates interval
+activate UI
+UI -> CTRL: regressionModel = getLinearRegressionModel()
+activate CTRL
+alt SimpleLinearRegression
+CTRL -> SLR: regressionModel = getSlr()
+activate SLR
+deactivate SLR
+else MultipleLinearRegression
+CTRL -> MLR: regressionModel = getMlr()
+activate MLR
+deactivate MLR
+deactivate CTRL
+end
+UI - -> ADM: shows the available regression models and asks to select one
+deactivate UI
+ADM -> UI: selects a regression model
+activate UI
+opt SimpleLinearRegression
+UI - -> ADM: shows the available independent variables\n and asks to select one (number of tests, mean age)
+deactivate UI
+ADM -> UI: selects one of them
+activate UI
+UI - -> ADM: requests the selection of the parameter for the hypothesis test
+deactivate UI
+ADM -> UI: selects one of them
+activate UI
+end
+UI - -> ADM: requests the significance level
+deactivate UI
+ADM -> UI: types the significance level
+activate UI
+UI - -> ADM: requests the confidence level
+deactivate UI
+ADM -> UI: types the confidence level
+activate UI
+alt SimpleLinearRegression && days && number of tests
+UI -> CTRL: getReportForDays(startDate, endDate, currentDate, hP, sL, cL, parameterToHT)
+activate CTRL
+CTRL -> ML: testStore = getTestStore()
+activate ML
+deactivate ML
+CTRL -> TSTORE: covidTests = covidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: positiveTests = positiveCovidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> ML: report = createReportNHS()
+activate ML
+deactivate ML
+CTRL -> REPORT: createLinearRegression(covidTests, positiveTests, sL/100, cL, parameterToHT)
+activate REPORT
+deactivate REPORT
+CTRL -> TSTORE: positiveCasesToInterval = getPositiveCovidTestsPerWeek(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: covidTestsHp = getTestForHp()
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: hPDays = getHPDays()
+activate TSTORE
+deactivate TSTORE
+CTRL -> REPORT: addConfLevel(positiveCasesToInterval , covidTestsHp, hPDays, cL/100)
+activate REPORT
+deactivate REPORT
+deactivate CTRL
+else SimpleLinearRegression && days && mean age
+UI -> CTRL: getReportForDaysWithMeanAge(startDate, endDate, currentDate, hP, sL, cL, parameterToHT)
+activate CTRL
+CTRL -> ML: testStore = getTestStore()
+activate ML
+deactivate ML
+CTRL -> TSTORE: meanAge = meanAgeLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: positiveTests = positiveCovidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> ML: report = createReportNHS()
+activate ML
+deactivate ML
+CTRL -> REPORT: createLinearRegression(meanAge, positiveTests, sL/100, cL, parameterToHT)
+activate REPORT
+deactivate REPORT
+CTRL -> TSTORE: positiveCasesToInterval = getPositiveCovidTestsPerDay(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: meanAgeHp = getMeanAgeForHpDay(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: hPDays = getHPDays()
+activate TSTORE
+deactivate TSTORE
+CTRL -> REPORT:addConfLevel((positiveCasesToInterval , meanAgeHp, hPDays, cL/100)
+activate REPORT
+deactivate REPORT
+deactivate CTRL
+else SimpleLinearRegression && weeks && number of tests
+UI -> CTRL: getReportForWeeks(startDate, endDate, currentDate, hP, sL, cL, parameterToHT)
+activate CTRL
+CTRL -> ML: testStore = getTestStore()
+activate ML
+deactivate ML
+CTRL -> TSTORE: covidTests = covidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: positiveTests = positiveCovidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> ML: report = createReportNHS()
+activate ML
+deactivate ML
+CTRL -> REPORT: createLinearRegression(covidTests, positiveTests, sL/100, cL, parameterToHT)
+activate REPORT
+deactivate REPORT
+CTRL -> TSTORE: positiveCasesToInterval = getPositiveCovidTestsPerWeek(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: performedTestsForHp = getCovidTestsForWeekHp(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: hPWeeksInitial = gethPWeeksInitial()
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: hPWeeksFinal = gethPWeeksFinal()
+activate TSTORE
+deactivate TSTORE
+CTRL -> REPORT: addConfLevelForWeek(positiveCasesToInterval, performedTestsForHp, hPWeeksInitial, hPWeeksFinal, cL/100)
+activate REPORT
+deactivate REPORT
+deactivate CTRL
+else SimpleLinearRegression && weeks && mean age
+UI -> CTRL: getReportForWeeksWithMeanAge(startDate, endDate, currentDate, hP, sL, cL, parameterToHT)
+activate CTRL
+CTRL -> ML: testStore = getTestStore()
+activate ML
+deactivate ML
+CTRL -> TSTORE: meanAge = meanAgeLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: positiveTests = positiveCovidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> ML: report = createReportNHS()
+activate ML
+deactivate ML
+CTRL -> REPORT: createLinearRegression(meanAge, positiveTests, sL/100, cL, parameterToHT)
+activate REPORT
+deactivate REPORT
+CTRL -> TSTORE: positiveCasesToInterval = getPositiveCovidTestsPerWeek(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: meanAgeHp = getMeanAgeForHPWeek(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: hPDays = getHPDays()
+activate TSTORE
+deactivate TSTORE
+CTRL -> REPORT: addConfLevelForWeek(positiveCasesToInterval, meanAgeHp, hPWeeksInitial, hPWeeksFinal, cL/100)
+activate REPORT
+deactivate REPORT
+deactivate CTRL
+else MultipleLinearRegression && Days
+UI -> CTRL: sendReportMultilinearRegressionForDays(startDate, endDate, currentDate, hP, sL, cL)
+activate CTRL
+CTRL -> ML: testStore = getTestStore()
+activate ML
+deactivate ML
+CTRL -> TSTORE: covidTests = covidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: positiveTests = positiveCovidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: meanAge = meanAgeLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> ML: report = createReportNHS()
+activate ML
+deactivate ML
+CTRL -> REPORT: createMultiLinearRegression(covidTests, positiveTests, meanAge, sL/100, cL)
+activate REPORT
+deactivate REPORT
+CTRL ->TSTORE: positiveCasesToInterval = getPositiveCovidTestsPerDay(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: covidTestsHp = getTestForHp(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL ->TSTORE: meanAgeHp = getMeanAgeForHpDay(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE:hPDays = getHPDays()
+activate TSTORE
+deactivate TSTORE
+CTRL -> REPORT: addConfLevelForMultiRegr(positiveCasesToInterval, covidTestsHp, meanAgeHp, hPDays, cL/100)
+activate REPORT
+deactivate REPORT
+deactivate CTRL
+else MultipleLinearRegression && weeks
+UI -> CTRL: sendReportMultilinearRegressionForWeeks(startDate, endDate, currentDate, hP, sL, cL)
+activate CTRL
+CTRL -> ML: testStore = getTestStore()
+activate ML
+deactivate ML
+CTRL -> TSTORE: covidTests = covidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: positiveTests = positiveCovidTestsLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: meanAge = meanAgeLinearRegression(startDate, endDate)
+activate TSTORE
+deactivate TSTORE
+CTRL -> ML: report = createReportNHS()
+activate ML
+deactivate ML
+CTRL -> REPORT: createMultiLinearRegression(covidTests, positiveTests, meanAge, sL/100, cL)
+activate REPORT
+deactivate REPORT
+CTRL ->TSTORE: positiveCasesToInterval = getPositiveCovidTestsPerWeek(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: perfomedTestsForHp = getCovidTestsForWeekHp(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: meanAgeHp = getMeanAgeForHPWeek(currentDate, hP)
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: hPWeeksInitial = gethPWeeksInitial()
+activate TSTORE
+deactivate TSTORE
+CTRL -> TSTORE: hPWeeksFinal = gethPWeeksFinal()
+activate TSTORE
+deactivate TSTORE
+CTRL ->REPORT: addConfLevelForWeekForMultiRegr(positiveCasesToInterval, perfomedTestsForHp, meanAgeHp, hPWeeksInitial, hPWeeksFinal, cL/100)
+activate REPORT
+deactivate REPORT
+deactivate CTRL
+end
+UI - -> ADM: shows all data and requests for confirmation
+deactivate UI
+ADM -> UI: confirms all the data
+activate UI
+UI -> CTRL: sendReport()
+activate CTRL
+CTRL -> REPORT: sendReportNHS()
+activate REPORT
+REPORT -> REPORT: report = reportApi()
+activate REPORT
+deactivate REPORT
+REPORT -> REPORTINTERFACE: writeUsingFileWriter(report)
+activate REPORTINTERFACE
+deactivate REPORT
+deactivate REPORTINTERFACE
+deactivate CTRL
+UI - -> ADM: informs operation success
+deactivate UI
+
+deactivate ADM
+@enduml
+
+PlantUML version 1.2021.4(Sun Apr 04 09:49:39 BST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: Dynamic Code Evolution 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: PT
+--></g></svg>
